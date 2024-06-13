@@ -20,6 +20,17 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "expo": {
+      "assetBundlePatterns": [
+        "**/*",
+        "**/*.glb",
+        "**/*.gltf",
+        "**/*.mtl",
+        "**/*.obj",
+        "**/*.png",
+        "**/*.jpg"
+      ]
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
